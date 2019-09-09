@@ -1,7 +1,7 @@
 module.exports = {
   title: '言凡',
   description: '个人博客，欢迎参观',
-  base: "/",
+  base: "/vuepress_blog/",
   markdown: {
     lineNumbers: true,
     toc: { includeLevel: [1, 2, 3] },
