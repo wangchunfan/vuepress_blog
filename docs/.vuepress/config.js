@@ -1,14 +1,14 @@
 module.exports = {
   title: '言凡',
   description: '个人博客，欢迎参观',
-  base: "/vuepress_blog/",
+  base: "/",
   markdown: {
     lineNumbers: true,
     toc: { includeLevel: [1, 2, 3] },
   },
   themeConfig: {
 	lang: "简体中文",
-	repo: 'wangchunfan/vuepress_blog',
+	repo: 'wangchunfan/',
 	docsDir: "docs",
 	editLinks: true,
     nav: [

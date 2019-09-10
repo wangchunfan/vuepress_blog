@@ -1,25 +1,25 @@
 #!/usr/bin/env sh
 
-# È·±£½Å±¾Å×³öÓöµ½µÄ´íÎó
+# ç¡®ä¿è„šæœ¬æŠ›å‡ºé‡åˆ°çš„é”™è¯¯
 set -e
 
-# Éú³É¾²Ì¬ÎÄ¼ş
+# ç”Ÿæˆé™æ€æ–‡ä»¶
 npm run docs:build
 
-# ½øÈëÉú³ÉµÄÎÄ¼ş¼Ğ
+# è¿›å…¥ç”Ÿæˆçš„æ–‡ä»¶å¤¹
 cd docs/.vuepress/dist
 
-# Èç¹ûÊÇ·¢²¼µ½×Ô¶¨ÒåÓòÃû
+# å¦‚æœæ˜¯å‘å¸ƒåˆ°è‡ªå®šä¹‰åŸŸå
 # echo 'www.example.com' > CNAME
 
 git init
 git add -A
 git commit -m 'deploy'
 
-# Èç¹û·¢²¼µ½ https://<USERNAME>.github.io
-# git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
+# å¦‚æœå‘å¸ƒåˆ° https://<USERNAME>.github.io
+git push -f git@github.com:wangchunfan/wangchunfan.github.io.git master
 
-# Èç¹û·¢²¼µ½ https://<USERNAME>.github.io/<REPO>
- git push -f git@github.com:wangchunfan/vuepress_blog.git master:gh-pages
+# å¦‚æœå‘å¸ƒåˆ° https://<USERNAME>.github.io/<REPO>
+# git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
 
 cd -
