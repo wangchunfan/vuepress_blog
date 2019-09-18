@@ -65,14 +65,19 @@ module.exports = {
   base: "/",
   markdown: {
     lineNumbers: true,
-    toc: { includeLevel: [1, 2, 3] },
+	toc: { includeLevel: [1, 2, 3] },
+	config: md => {
+		md.set({ html: true });
+		md.use(require("markdown-it-katex"));
+	  }
   },
   themeConfig: {
 	lang: "简体中文",
 	repo: 'wangchunfan/',
-	docsDir: "docs",
 	editLinks: true,
 	editLinkText: "在 GitHub 上编辑此页",
+	docsRepo: 'wangchunfan/vuepress_blog',
+	docsDir: 'docs',
     nav: [
       { 
 		text: '算法与数据结构', 
