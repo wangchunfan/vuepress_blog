@@ -1,8 +1,6 @@
-# 剑指offer
+# 打卡日历
 
-## 打卡日历
-
-### 2019-07
+## 2019-07
 
 |周日|周一|周二|周三|周四|周五|周六|
 |--|--|--|--|--|--|--|
@@ -10,7 +8,7 @@
 | [21](http://note.youdao.com/noteshare?id=140a5c580d6bb6826f0f50bd8e701560&sub=F04AA964C13348C2BEB6DA0752467CCB) |[22](http://note.youdao.com/noteshare?id=8f7a1732483878053ca08d7494300104&sub=A03D5AD6B9B048C89A1A97FBB3C990BE)|[23](http://note.youdao.com/noteshare?id=53849d90d97381c1a59742233b4ea55a&sub=668718C9DAB7495E80D49E0F89EA554D)|[24](https://note.youdao.com/ynoteshare1/index.html?id=80807165827634bb2fdf71da441015be&type=note)|[25](http://note.youdao.com/noteshare?id=a0f4f5290d08f69a1c966bd578e6f2bc&sub=6D23993407A04F008A3407832DDF6510)|[26](http://note.youdao.com/noteshare?id=94eedeaa94e7db1d0c9e019522fccf86&sub=F0B35519C281416ABF8A77825BEF03BC)|[27](http://note.youdao.com/noteshare?id=b7b92e92a64c81921d773f4d09147846&sub=DF5CC146FE8B4F4DBC47AFC297A2FCB2)|
 | [28](http://note.youdao.com/noteshare?id=59807ba409195a89d8597e833070a5c5&sub=0F2A9D032D9E4B93885B583007EE5496) |[29](http://note.youdao.com/noteshare?id=4a6d6a125bd32c1499a59b6b86097e4f&sub=D60406641BA54CA087C167CDBCE3FD30) |[30](http://note.youdao.com/noteshare?id=ae70449d65718dda7c26365c219ba610&sub=F3FAEAFA3A424DA0AA996C55DFAF46A5)|[31](http://note.youdao.com/noteshare?id=f8f96c9c9e52722e05530ac2ff537854&sub=4B45C500CEEE4D9DBF29CDB3BD63F1E4)|  |  |　|
 
-### 2019-08
+## 2019-08
 
 |周日|周一|周二|周三|周四|周五|周六|
 |--|--|--|--|--|--|--|
@@ -20,10 +18,22 @@
 |[18](http://note.youdao.com/noteshare?id=b37b7c28f64b8decc063e287524ce925&sub=E807BF06E3F54AE98D3311A972C9801E)|[19](http://note.youdao.com/noteshare?id=b118757b37a9ce89e9e86177dc603376&sub=59FDDAAA05EC4E5E8AC390EC960EDFAD)|[20](http://note.youdao.com/noteshare?id=0a13aad63d9c02dd56ced45cfd20051e&sub=58ACEF71E1AB4FC4B6965FEA00091505)|[21](http://note.youdao.com/noteshare?id=84d561ab1063c107fba6591fe0768cde&sub=E61C9F37EE3840A6883DF0C3630885EB)|[22](http://note.youdao.com/noteshare?id=ccb8864f4448389d0dabb58af5bfdc7c&sub=1289932122244003854290967ADEA3C3)|23|24|
 |[25](http://note.youdao.com/noteshare?id=09edb6c87ab631607f864a7862f0b029&sub=4B8BB8C9B4BD42138A9548032FABE802)|26|27|28|29|30|31|
 
-### 2019-09
+## 2019-09
 
 |周日|周一|周二|周三|周四|周五|周六|
 |--|--|--|--|--|--|--|
 |1|2|3|[4](http://note.youdao.com/noteshare?id=974e3355170c15fdd9e7cecb38c0d0a4&sub=B891F7EB03B24EBDBC947E2732A0EE04)|[5](http://note.youdao.com/noteshare?id=a18fdd9058b0d1f8d0193addc9dc90c7&sub=1EACB779EF3B479EA722069E5E2463C3)|[6](http://note.youdao.com/noteshare?id=93f3e1a6c35ffd6773fb4df3927add1f&sub=8F072B224A5E46ACAE278FB946904B0E)|[7](http://note.youdao.com/noteshare?id=cd5949547e023407db0b848311e36037&sub=8E5D1CFCD15C450B86FCFFA1AAB4CD33)|
 |[8](http://note.youdao.com/noteshare?id=a164f83bb2216092cd280ccc21519c1e&sub=124CA588D03C49B4951848EAD1249C79)|[9](http://note.youdao.com/noteshare?id=cc66aae6f31c82838a1221a30ca21c26&sub=B7F2A3053E7E4EA3A5D9A4054334978F)|10|11|12|13|14|
 |[15](http://note.youdao.com/noteshare?id=e8e16324d1aa74be842f8e19c784793a&sub=6B23329A21B346E2BAAFFCEDE004EC31)|[16](http://note.youdao.com/noteshare?id=1218b4947c2b70306538c7bacdd3ced1&sub=BE490BF0CBC74B6EB2A6F74E337321E4)
+
+## 谈谈打卡
+
+一开始的打卡，是跟随极客时间的 [V1.0：ARTS挑战](https://www.zhihu.com/people/yan-fan-99-48/answers)。坚持了 16 周，现在看来 4 个月呢，这是一开始想不到的结果。看来很多事情需要慢慢去做，让时间去证明它的积累和价值。
+
+然后转战 [V2.0：GitHub](https://github.com/wangchunfan/hold-hard) 打卡，一开始坚持的很好，每天完成一道算法题目。整整一个月都坚持下来了，然后因为一些原因会有中断，并且期间还有几天进行了补卡。
+
+总结一下坚持不下来的原因那就是 `害怕`，因为有时候确实会遇到一道难的题目，花费好几个小时才能解出来，在做下一道题目的时候就开始有了害怕的情绪。那要是遇到一道简单的题目呢？也许编写完，直接提交，一次性通过，这个时候就十分迫切的想要再来一道题目练练。发现了问题，就要找到解决的方法，很朴素，很简单 `要硬上吗？`。是的，解一道难题要花 2 个小时，如果现在不去做，那么以后还要补回这 2 个小时，只能是硬着头皮上了。
+
+现在回头看看这个打卡日历，发现打卡这件事不只是在督促自己培养一个习惯，还是在 `记录` 自己每天的工作生活。看到有打卡记录的日子，会让人觉得心安，知道这一天是有哪些收获。而且补卡这件事，看起来更像是扰乱视线，过去的一天是补不回来的，以后就不要进行补卡了。
+
+从现在开始，又要开始新的一轮打卡了，这次的打卡被命名为 **V3.0：理想计划**。这次的思路不只是为一件事而打卡，而是要对一天或者是一个阶段进行思考与总结。完成一道算法题是很容易量化的，但是每天的进步只有这一点吗？每一天的积累都可以写下来，这样回头看时，就可以看到自己过去有没有在成长，为什么会懈怠，借此勉励与反思自己。日记、周记都应该有，在往前走的同时也要回头看，不然是不是很容易就迷路了呢。
