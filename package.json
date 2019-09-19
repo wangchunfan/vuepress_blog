@@ -2,22 +2,5 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
-  },
-  "name": "vuepress_blog",
-  "description": "vuepress个人博客",
-  "version": "1.0.0",
-  "main": "index.js",
-  "directories": {
-    "doc": "docs"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/wangchunfan/vuepress_blog.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/wangchunfan/vuepress_blog/issues"
-  },
-  "homepage": "https://github.com/wangchunfan/vuepress_blog#readme"
+  }
 }
