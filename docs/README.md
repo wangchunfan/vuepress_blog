@@ -1,10 +1,9 @@
 ---
 home: true
-heroImage: /logo.png
-heroText: 个人博客
+isShowTitleInHome: false
 tagline: 随处看看吧
-actionText: 快速开始 →
-actionLink: /idea/
+actionText: About
+actionLink: /other/about
 features:
 - title: 算法与数据结构
   details: 算法题目天天练习

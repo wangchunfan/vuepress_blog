@@ -1,3 +1,14 @@
+// 添加引用："@vuepress/core": "^1.2.0" 后可以使用
+// const { fs, path } = require('@vuepress/shared-utils')
+
+// function fileNameArray(root){
+// 	return fs.readdirSync(path.resolve(__dirname, '..' + root))
+// 	.map(filename =>filename.slice(0, -3))
+// }
+
+// const OFFER = fileNameArray("/algorithm/剑指offer/")
+// const LeetCode = fileNameArray("/algorithm/LeetCode/")
+
 // 剑指offer
 const OFFER = [
 	"5. 从尾到头打印链表",
@@ -8,7 +19,7 @@ const OFFER = [
 	"10. 二进制中1的个数",
 	"11. 数值的整数次方",
 	"12. 打印1到最大的n位数",
-	"13. 在O(1)时间删除链表结点",
+	"13. 在O1时间删除链表结点",
 	"14. 调整数组顺序使奇数位于偶数前面",
 	"15. 链表中倒数第k个结点",
 	"16. 反转链表",
@@ -50,19 +61,12 @@ const LeetCode = [
 	"74. 搜索二维矩阵",
 	"88. 合并两个有序数组"
 ]
-// 读书笔记
-const NOTE = [
-
-]
-// 一些想法
-const IDEA =[
-
-]
 
 module.exports = {
   title: '言凡',
   description: '个人博客，欢迎参观',
   base: "/",
+  port: "8000",
   markdown: {
     lineNumbers: true,
 	toc: { includeLevel: [1, 2, 3] },
@@ -71,25 +75,49 @@ module.exports = {
 		md.use(require("markdown-it-katex"));
 	  }
   },
+  theme: 'reco',
   themeConfig: {
+	// 评论功能
+	vssueConfig: {
+		platform: 'github-v4',
+		owner: 'wangchunfan',
+		repo: 'vuepress_blog',
+		clientId: '6c70004f9186377c59d3',
+		clientSecret: '91d2cc57032ef5b68c024a11c3061e4d334a4e7a',
+	},
+	//logo: '/logo.png',
 	lang: "简体中文",
+	// github 连接
 	repo: 'wangchunfan/',
+	// 在 GitHub 上编辑此页
 	editLinks: true,
 	editLinkText: "在 GitHub 上编辑此页",
+	// 文档仓库和项目本身不在一个仓库
 	docsRepo: 'wangchunfan/vuepress_blog',
+	// 假如文档不是放在仓库的根目录下
 	docsDir: 'docs',
-    nav: [
-      { 
-		text: '算法与数据结构', 
-		items: [
-		  { text: '剑指offer', link: '/algorithm/剑指offer/' },
-		  { text: 'LeetCode', link:  '/algorithm/LeetCode/' }
-		]
-	  },
-      { text: '读书笔记', link: '/note/' },
-      { text: '一些想法', link: '/idea/' }
-    ],
+	// 备案信息和项目开始时间
+	// 备案
+    record: '京ICP备20002380号-1',
+    recordLink: 'http://beian.miit.gov.cn',
+    // cyberSecurityRecord: '公安部备案文案',
+    // cyberSecurityLink: '公安部备案指向链接',
+    // 项目开始时间，只填写年份
+    startYear: '2019',
+	// 侧边栏深度
 	sidebarDepth: 2,
+	// 导航栏连接
+	nav: [
+		{ 
+			text: '算法与数据结构', 
+			items: [
+			{ text: '剑指offer', link: '/algorithm/剑指offer/' },
+			{ text: 'LeetCode', link:  '/algorithm/LeetCode/' }
+			]
+		},
+		// { text: '读书笔记', link: '/note/' },
+		// { text: '一些想法', link: '/idea/' }
+		],
 	sidebar: {
 		"/algorithm/剑指offer/": [
 			{
@@ -104,21 +132,7 @@ module.exports = {
 				collapsable: false,
 				children: LeetCode
 			}
-	  	],
-		"/note/": [
-			{
-				title: "LeetCode",
-				collapsable: false,
-				children: NOTE
-			}
-		],
-		"/idea/": [
-			{
-				title: "LeetCode",
-				collapsable: false,
-				children: IDEA
-			}
-		]
+	  	]
 	  }
   }
 }
