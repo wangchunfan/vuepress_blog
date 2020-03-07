@@ -27,15 +27,3 @@ title: 打卡日历
 |1|2|3|[4](http://note.youdao.com/noteshare?id=974e3355170c15fdd9e7cecb38c0d0a4&sub=B891F7EB03B24EBDBC947E2732A0EE04)|[5](http://note.youdao.com/noteshare?id=a18fdd9058b0d1f8d0193addc9dc90c7&sub=1EACB779EF3B479EA722069E5E2463C3)|[6](http://note.youdao.com/noteshare?id=93f3e1a6c35ffd6773fb4df3927add1f&sub=8F072B224A5E46ACAE278FB946904B0E)|[7](http://note.youdao.com/noteshare?id=cd5949547e023407db0b848311e36037&sub=8E5D1CFCD15C450B86FCFFA1AAB4CD33)|
 |[8](http://note.youdao.com/noteshare?id=a164f83bb2216092cd280ccc21519c1e&sub=124CA588D03C49B4951848EAD1249C79)|[9](http://note.youdao.com/noteshare?id=cc66aae6f31c82838a1221a30ca21c26&sub=B7F2A3053E7E4EA3A5D9A4054334978F)|10|11|12|13|14|
 |[15](http://note.youdao.com/noteshare?id=e8e16324d1aa74be842f8e19c784793a&sub=6B23329A21B346E2BAAFFCEDE004EC31)|[16](http://note.youdao.com/noteshare?id=1218b4947c2b70306538c7bacdd3ced1&sub=BE490BF0CBC74B6EB2A6F74E337321E4)
-
-## 谈谈打卡
-
-一开始的打卡，是跟随极客时间的 [V1.0：ARTS挑战](https://www.zhihu.com/people/yan-fan-99-48/answers)。坚持了 16 周，现在看来 4 个月呢，这是一开始想不到的结果。看来很多事情需要慢慢去做，让时间去证明它的积累和价值。
-
-然后转战 [V2.0：GitHub](https://github.com/wangchunfan/hold-hard) 打卡，一开始坚持的很好，每天完成一道算法题目。整整一个月都坚持下来了，然后因为一些原因会有中断，并且期间还有几天进行了补卡。
-
-总结一下坚持不下来的原因那就是 `害怕`，因为有时候确实会遇到一道难的题目，花费好几个小时才能解出来，在做下一道题目的时候就开始有了害怕的情绪。那要是遇到一道简单的题目呢？也许编写完，直接提交，一次性通过，这个时候就十分迫切的想要再来一道题目练练。发现了问题，就要找到解决的方法，很朴素，很简单 `要硬上吗？`。是的，解一道难题要花 2 个小时，如果现在不去做，那么以后还要补回这 2 个小时，只能是硬着头皮上了。
-
-现在回头看看这个打卡日历，发现打卡这件事不只是在督促自己培养一个习惯，还是在 `记录` 自己每天的工作生活。看到有打卡记录的日子，会让人觉得心安，知道这一天是有哪些收获。而且补卡这件事，看起来更像是扰乱视线，过去的一天是补不回来的，以后就不要进行补卡了。
-
-从现在开始，又要开始新的一轮打卡了，这次的打卡被命名为 **V3.0：理想计划**。这次的思路不只是为一件事而打卡，而是要对一天或者是一个阶段进行思考与总结。完成一道算法题是很容易量化的，但是每天的进步只有这一点吗？每一天的积累都可以写下来，这样回头看时，就可以看到自己过去有没有在成长，为什么会懈怠，借此勉励与反思自己。日记、周记都应该有，在往前走的同时也要回头看，不然是不是很容易就迷路了呢。
