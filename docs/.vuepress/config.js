@@ -12,7 +12,7 @@ function fileNameArray(root){
 
 
 module.exports = {
-  title: '言凡',
+  title: '我的技术成长之路',
   description: '个人博客，欢迎参观',
   base: "/",
   port: "8000",

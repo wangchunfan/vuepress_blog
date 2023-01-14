@@ -2,6 +2,16 @@
 
 vuepress个人博客
 
+## 项目执行
+
+安装依赖
+
+```shell
+npm install 
+npm run dev
+npm run build
+```
+
 ## 刷题文档格式
 
 - 文件名称：`数字. 题目名称.md`
